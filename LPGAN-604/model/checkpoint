@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp5/cindy0711/DeepHDR/server/LPGAN_exp_G3_604/model/27.500-new.ckpt"
+all_model_checkpoint_paths: "/tmp5/cindy0711/DeepHDR/server/LPGAN_exp_G3_604/model/27.500-new.ckpt"
